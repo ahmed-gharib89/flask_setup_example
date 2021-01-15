@@ -1,2 +1,8 @@
-backend/flaskr/__pycache__/__init__.cpython-36.pyc backend/flaskr/__pycache__/__init__.cpython-37.pyc
+backend/flaskr/__pycache__/__init__.cpython-36.pyc
 backend/flaskr/__pycache__/__init__.cpython-37.pyc
+backend/flaskr/__pycache__/__init__.cpython-37.pyc
+
+.ipynb_checkpoints/Guide-checkpoint.ipynb
+backend/.ipynb_checkpoints/models-checkpoint.py
+backend/.ipynb_checkpoints/test_flaskr-checkpoint.py
+backend/flaskr/.ipynb_checkpoints/__init__-checkpoint.py

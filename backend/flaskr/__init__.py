@@ -8,7 +8,7 @@ from models import setup_db, Book
 
 BOOKS_PER_SHELF = 8
 
-# @TODO: General Instructions
+# @Done: General Instructions
 #   - As you're creating endpoints, define them and then search for 'TODO' within the frontend to update the endpoints there.
 #     If you do not update the endpoints, the lab will not work - of no fault of your API code!
 #   - Make sure for each route that you're thinking through when to abort and with which kind of error
